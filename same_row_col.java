@@ -17,7 +17,7 @@ class same_row_col{
                                         {
 
                                     
-                                        System.out.print("*"+" ");
+                                        System.out.print("*");
                                         }
                         System.out.println("\n");
                     }
